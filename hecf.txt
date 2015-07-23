@@ -1,2 +1,3 @@
-I'm learning the Linux command line, git and Github. 
+test file
+I'm learning the Linux command line, git and Github.
 My goal is to become a data scientist.
